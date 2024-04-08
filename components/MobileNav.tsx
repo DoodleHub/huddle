@@ -1,6 +1,5 @@
 'use client';
 
-import React from 'react';
 import { Sheet, SheetClose, SheetContent, SheetTrigger } from './ui/sheet';
 import Image from 'next/image';
 import Link from 'next/link';
