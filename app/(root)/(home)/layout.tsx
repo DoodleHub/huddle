@@ -1,6 +1,7 @@
+import type { ReactNode } from 'react';
+
 import Navbar from '@/components/Navbar';
 import Sidebar from '@/components/Sidebar';
-import { ReactNode } from 'react';
 
 const HomeLayout = ({ children }: { children: ReactNode }) => {
   return (
